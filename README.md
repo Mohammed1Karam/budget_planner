@@ -1,4 +1,12 @@
-# Budget Planner
+# Budget Planner 💰
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tests-189-success?style=for-the-badge" />
+</p>
 
 A Flutter build of the `UI_Budget_Planner_Light_mode` Figma file, structured
 around GetX.
