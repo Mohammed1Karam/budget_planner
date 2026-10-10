@@ -130,3 +130,4 @@ python3 tool/figma_render.py    # redraw everything, offline
 `AppSvg` falls back to a soft block for an asset that is genuinely missing
 rather than throwing, and `test/screen/screen_assets_test.dart` fails if any
 screen ever hits that fallback.
+# budget_planner
