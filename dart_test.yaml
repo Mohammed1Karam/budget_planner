@@ -1,0 +1,8 @@
+# The capture pass writes render dumps for eyeballing screens against the Figma
+# board. It asserts almost nothing, so it is excluded from the normal run and
+# invoked deliberately:
+#
+#   flutter test --tags capture test/screen/golden_capture_test.dart
+tags:
+  capture:
+    skip: "run with --tags capture"
